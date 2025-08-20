@@ -3,11 +3,13 @@
 # Screenshots:
 
 <div class="container" align="center">
-  <img width="32%" alt="Screenshot0" src="https://github.com/user-attachments/assets/7f10c3f7-efce-4603-87fe-1bb849f00eec" />
-  <img width="32%" alt="Screenshot1" src="https://github.com/user-attachments/assets/29a7389a-b21e-472c-be4f-fea6cdcd5de3" />
-  <img width="32%" alt="Screenshot2" src="https://github.com/user-attachments/assets/6e0c7b68-6dad-4f5e-b902-51a80c340625" />
+  <img width="19%" alt="Screenshot0" src="https://github.com/user-attachments/assets/e9d61555-02d4-40bd-b210-de15ca67480c" />
+  <img width="19%" alt="Screenshot1" src="https://github.com/user-attachments/assets/fa575805-b199-4b52-9e3b-02233e896c76" />
+  <img width="19%" alt="Screenshot2" src="https://github.com/user-attachments/assets/aeaff860-3eb1-46d6-b557-cd04bd2d57ce" />
+  <img width="19%" alt="Screenshot3" src="https://github.com/user-attachments/assets/9f5f6ed0-16d9-4d37-954f-6fec2e9979a4" />
+  <img width="19%" alt="Screenshot4" src="https://github.com/user-attachments/assets/5b0604a1-c03e-48ed-a3ee-70df6c4662ab" />
   <br/>
-  <img width="97%" alt="Screenshot3" src="https://github.com/user-attachments/assets/f4e79e75-8eca-41e5-9c24-393fa6522094" />
+  <img width="95%" alt="Screenshot5" src="https://github.com/user-attachments/assets/a78932f6-2a1b-470b-99a6-55b86e9d2c3e" />
 </div>
 
 # MVVM Architecture Diagram:
